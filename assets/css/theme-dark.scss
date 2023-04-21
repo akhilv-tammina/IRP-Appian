@@ -11,6 +11,7 @@ $bg-color2: #080808;
     z-index: 999;
     top: 23px;
     right: calc(100% - 98%);
+    display: none;
     @media(max-width:991px){
         right:88px;
         top:12px
