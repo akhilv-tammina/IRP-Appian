@@ -541,6 +541,7 @@ Navbar Area
   position: relative;
   padding-bottom: 15px;
   text-decoration: none;
+  cursor: pointer;
 }
 .nav-bar-two nav .navbar-nav .nav-item a:hover, .nav-bar-two nav .navbar-nav .nav-item a :focus {
   color: #ffffff !important;

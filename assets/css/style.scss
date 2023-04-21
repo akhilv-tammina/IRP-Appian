@@ -551,6 +551,7 @@ Navbar Area
                     position: relative;
                     padding-bottom: 15px;
                     text-decoration: none;
+                    cursor: pointer;
                     &:hover, :focus {
                         color: $color-white !important;
                         text-decoration: none;
